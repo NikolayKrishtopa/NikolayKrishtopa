@@ -9,6 +9,8 @@
 <img src="https://xakep.ru/wp-content/uploads/2015/08/41885761_xl.jpg" width="500" />
 </div>
 
+<br />
+
 <div align="center">
   <p>You can contact me as follows:</p>
   <a href="https://t.me/Nikolay_Krishtopa">
@@ -36,7 +38,7 @@
 
 ### My technical stack I'm able to work with:
 
-<div>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
@@ -52,4 +54,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="50" height="50"/>
-</div>
