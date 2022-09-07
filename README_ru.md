@@ -16,10 +16,10 @@
 <div align="center">
   <p>Со мной можно связаться по следующим ссылкам:</p>
   <a href="https://t.me/Nikolay_Krishtopa">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram"  width="100" height="40"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram"  width="100" height="30"/>
   </a>
   <a href="mailto:Nikolay.krishtopa@gmail.com">
-    <img src="https://img.shields.io/badge/email-yellow?logo=gmail" width="100" height="40"/>
+    <img src="https://img.shields.io/badge/email-yellow?logo=gmail" width="100" height="30"/>
   </a>
 </div>
 
