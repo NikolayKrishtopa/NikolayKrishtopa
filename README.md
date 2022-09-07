@@ -16,6 +16,7 @@
   <a href="https://t.me/Nikolay_Krishtopa">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram"  width="100" height="30"/>
   </a>
+  &nbsp;
   <a href="mailto:Nikolay.krishtopa@gmail.com">
     <img src="https://img.shields.io/badge/email-yellow?logo=gmail" width="100" height="30"/>
   </a>
@@ -48,6 +49,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="50" height="50"/>
 </div>
