@@ -1,4 +1,4 @@
-[For Enlish language please click here](https://github.com/NikolayKrishtopa/NikolayKrishtopa/README.md)
+[For Enlish language please click here](https://github.com/NikolayKrishtopa/NikolayKrishtopa)
 <br />
 <div align="center">
 <h2>Всем привет!</h2>
