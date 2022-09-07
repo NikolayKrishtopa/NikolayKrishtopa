@@ -1,5 +1,4 @@
-<div align="center">
-[For Russian language please click here](https://github.com/NikolayKrishtopa/NikolayKrishtopa/edit/main/README_ru.md)
+[For Russian language please click here](https://github.com/NikolayKrishtopa/NikolayKrishtopa/edit/main/README_ru.md)<div align="center">
 <h2>Hi everyone!</h2>
 <p>My name is Nikolay Krishtopa and I am a beginner frontend developer.</p>
 </div>
