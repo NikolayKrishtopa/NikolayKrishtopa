@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" />
   </a>
   <a href="mailto:Nikolay.krishtopa@gmail.com">
-    <img src="https://img.shields.io/badge/send-email-purple?logo=gmail" />
+    <img src="https://img.shields.io/badge/email-red?logo=gmail" />
   </a>
 </div>
 
