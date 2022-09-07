@@ -1,7 +1,7 @@
 <div align="center">
 [For Enlish language please click here](https://github.com/NikolayKrishtopa/NikolayKrishtopa/README.md)
 <h2>Всем привет!</h2>
-<p>Я Николай Криштопа, начинающий веб-разработчки</p>
+<p>Я Николай Криштопа, начинающий веб-разработчик</p>
 </div>
 
 <br />
