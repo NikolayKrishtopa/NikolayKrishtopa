@@ -14,10 +14,10 @@
 <div align="center">
   <p>You can contact me as follows:</p>
   <a href="https://t.me/Nikolay_Krishtopa">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram"  width="50" height="20"/>
   </a>
   <a href="mailto:Nikolay.krishtopa@gmail.com">
-    <img src="https://img.shields.io/badge/email-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/email-yellow?logo=gmail" width="50" height="20"/>
   </a>
 </div>
 
