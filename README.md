@@ -28,8 +28,8 @@
 
 - Sincerelly involved at web development
 - Currently getting some education at [Yandex.Prakticum school](https://practicum.yandex.ru/) with graduating from that an Dec 2022
-- able to work with HTML5, CSS3, JS, GIT, React.JS, Webpack
-- is currently studying Typescript
+- Able to work with HTML5, CSS3, JS, GIT, React.JS, Webpack
+- Currently studying Typescript
 - Team player
 
 <br />
