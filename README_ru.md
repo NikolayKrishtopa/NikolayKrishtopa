@@ -30,7 +30,7 @@
 
 - Искренне увлечен веб разработкой.
 - В настоящее время обучаюсь в [школе Яндекс.Практикум](https://practicum.yandex.ru/), предполагаемая дата окончания - декабрь 2022
-- Умею работать с HTML5, CSS3, JS, GIT, React.JS, Webpack.
+- Умею работать с HTML5, CSS3, JS, GIT, React.JS, Webpack, NodeJS, express, MongoDB.
 - Активно изучаю Typescript.
 - Люблю работать в команде.
 
@@ -53,4 +53,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="50" height="50"/>&nbsp;
 </div>
