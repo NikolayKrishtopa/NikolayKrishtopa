@@ -27,7 +27,7 @@
 ### Some facts about Me :
 
 - Sincerelly involved at web development
-- Currently getting some education at [Yandex.Prakticum school](https://practicum.yandex.ru/) with graduating from that at Dec 2022
+- Graduated from [Yandex.Prakticum school](https://practicum.yandex.ru/) at Jan 2023
 - Able to work with HTML5, CSS3, Javascript, GIT, React.JS, TypeScript, Webpack, NodeJS, expressJS, MongoDB, Redux
 - Familiar with the concepts of FLUX, state management, single responsibility and able to use it for architecture of existing or new projects.
 - Team player
