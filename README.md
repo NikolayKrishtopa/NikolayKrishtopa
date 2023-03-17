@@ -36,7 +36,7 @@
 
 ### My Codewars statistic:
 
-![My codewars statistic](https://www.codewars.com/users/Nikolay.Krishtopa/badges/large)
+![My codewars statistic](https://www.codewars.com/users/rsschool_89a4fa49beaf0ef2/badges/large)
 
 <br />
 
