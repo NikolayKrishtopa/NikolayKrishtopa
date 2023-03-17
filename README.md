@@ -28,7 +28,8 @@
 
 - Sincerelly involved at web development
 - Graduated from [Yandex.Prakticum school](https://practicum.yandex.ru/) at Jan 2023
-- Able to work with HTML5, CSS3, Javascript, GIT, React.JS, TypeScript, Webpack, NodeJS, expressJS, MongoDB, Redux
+- Is currently getting additional education in [RS school](https://rs.school/) and working for little startup as a frontend developer with thwo more teammates.
+- Able to work with HTML5, CSS3, JS, GIT, React.JS, Redux/RTK/Redux thunk, Vue.js, Typescript, Webpack, NodeJS, express.js, MongoDB.
 - Familiar with the concepts of FLUX, state management, single responsibility and able to use it for architecture of existing or new projects.
 - Team player
 
