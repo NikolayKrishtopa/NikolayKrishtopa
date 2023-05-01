@@ -1,4 +1,4 @@
-[For Enlish language please click here](https://github.com/NikolayKrishtopa)
+[For English language please click here](https://github.com/NikolayKrishtopa)
 <br />
 <div align="center">
 <h2>Всем привет!</h2>
