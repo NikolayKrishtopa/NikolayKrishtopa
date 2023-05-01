@@ -29,7 +29,7 @@
 - Sincerelly involved at web development
 - Currently working for the small startup company in the team counting 3 developers
 - Able to work with HTML5, CSS3, JS, GIT, React.JS, Redux/RTK/Redux thunk, Next.js, Vue.js, Typescript, Webpack, NodeJS, express.js, MongoDB.
-- Familiar with the concepts of FLUX, state management, single responsibility and able to use it for architecture of existing or new projects.
+- Familiar with the concepts of FLUX, state management, DRY, KISS, SRP, SOLID and able to use it for architecture of existing or new projects.
 - Team player
 
 <br />
