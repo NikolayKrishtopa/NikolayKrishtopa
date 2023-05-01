@@ -28,8 +28,6 @@
 
 - Sincerelly involved at web development
 - Currently working for the small startup company in the team counting 3 developers
-- Graduated from [Yandex.Prakticum school](https://practicum.yandex.ru/) at Jan 2023
-- Is currently getting additional education in [RS school](https://rs.school/) and working for little startup as a frontend developer in the team counting 3 persons.
 - Able to work with HTML5, CSS3, JS, GIT, React.JS, Redux/RTK/Redux thunk, Next.js, Vue.js, Typescript, Webpack, NodeJS, express.js, MongoDB.
 - Familiar with the concepts of FLUX, state management, single responsibility and able to use it for architecture of existing or new projects.
 - Team player
