@@ -1,8 +1,8 @@
 [For English language please click here](https://github.com/NikolayKrishtopa)
 <br />
 <div align="center">
-<h2>Всем привет!</h2>
-<p>Я Николай Криштопа, начинающий веб-разработчик</p>
+<h2>Привет!</h2>
+<p>Я Николай Криштопа, фронтенд-разработчик</p>
 </div>
 
 <br />
