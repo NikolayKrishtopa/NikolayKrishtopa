@@ -1,6 +1,6 @@
 [For Russian language please click here](https://github.com/NikolayKrishtopa/NikolayKrishtopa/blob/main/README_ru.md)<div align="center">
 <h2>Hi everyone!</h2>
-<p>My name is Nikolay Krishtopa and I am a beginner frontend developer.</p>
+<p>My name is Nikolay Krishtopa, I am a frontend/UI developer.</p>
 </div>
 
 <br />
