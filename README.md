@@ -27,8 +27,9 @@
 ### Some facts about Me :
 
 - Sincerelly involved at web development
-- Currently working for the small startup company in the team counting 3 developers
-- Able to work with HTML5, CSS3, JS, GIT, React.JS, Redux/RTK/Redux thunk, Next.js, Vue.js, Typescript, Webpack, NodeJS, express.js, MongoDB.
+- Currently working for IT company as a frontend developer (stack: React, Vue, vanilla.js, React query and others, frontend team consists of 4 frontend developers). Many various projects are being developed/supported.
+- Concurrently working for a small startup company as a single frontend developer (stack: Next.js, RTK, SCSS) in collaboration witd design and backend teams.
+- Able to work with HTML5, CSS3, JS, GIT, React.JS, Redux/RTK/Redux thunk, Next.js, Vue.js, Typescript, Webpack, NodeJS, Express.js, MongoDB.
 - Familiar with the concepts of FLUX, state management, DRY, KISS, SRP, SOLID and able to use it for architecture of existing or new projects.
 - Team player
 
