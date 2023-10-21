@@ -31,7 +31,6 @@
 - Искренне увлечен веб разработкой.
 - В настоящее время работаю в ИТ компании на позиции фронтенд-разработчика (технический стек: React, Vue, vanilla.js, React query и др). Команда фронтенда состоит из 4 разработчиков. Поддерживается и разрабатывается множество различных 
   проектов (как с нуля, так и поддержка, в том числе легаси приложений).
-- Concurrently working for a small startup company as a single frontend developer (stack: Next.js, RTK, SCSS) in collaboration witd design and backend teams.
 - Также параллельно работаю в небольшом стартапе в качестве единственного фронтенд разработчика в ассоциации с командами дизайна и бекенда. Развиваем приложение для автоматизации отправки данных и сверки водяных счетчиков. Технический 
   стек: Next.js, RTK, SCSS и др.
 - Технический стек: Javascript, Typescript, React.JS, Next.js, Redux/RTK/Redux thunk, Webpack, HTML5, CSS3, GIT, Vue.js, NodeJS, express.js, MongoDB.
